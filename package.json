@@ -1,0 +1,21 @@
+{
+  "name": "Georgia Tech",
+  "displayName": "Georgia Tech",
+  "description": "Theme based on the Georgia Tech colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Georgia Tech",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GeorgiaTech.json"
+      }
+    ]
+  }
+}

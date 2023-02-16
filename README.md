@@ -1,4 +1,4 @@
-# ravi-2-15-2023 README
+# Georgia Tech Theme README
 
 ## Working with Markdown
 
